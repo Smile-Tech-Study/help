@@ -1,0 +1,14 @@
+# Кнопка скачивания записей в чате Odin
+
+Внесено изменение о возможности просмотра и скачивания записей в чате:
+
+В окне просмотра записей звонка добавлена кнопка “Скачать” для скачивания записи. У участника чата есть права на просмотр и скачивание всех записей в чате.
+
+1. Откройте чат Odin и нажмите три точки в правом углу чата. Удаление доступно только создателю чата, преподавателю дисциплины или администратору.
+
+<figure><img src="../../.gitbook/assets/image (590).png" alt=""><figcaption></figcaption></figure>
+
+2\. В появившимся окне нажмите кнопку<img src="broken-reference" alt="" data-size="line">.
+
+![](https://lh5.googleusercontent.com/iFtjjLpK__pGWSql6MvEKl40vZEfGxf4WOFcxMWbgrVcuGUYQ5rwe2Aul280zZ0G3MdGIFufDhZbTEnDm9sJi4ymHV3DH7WHdYeAFCR_X1br8eNRiuGTQ8_6hy4NySOFTEeVmT_Z)
+
