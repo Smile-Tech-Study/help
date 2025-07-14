@@ -2,13 +2,16 @@
 description: >-
   В зависимости от ОС телефона, можете выбрать тот или иной вариант установки
   приложения Odin
+title: 📱 Приложение
 ---
-
-# 📱 Приложение
 
 <details>
 
-<summary>На смартфоне <strong>Android:</strong></summary>
+<summary>
+
+На смартфоне **Android:**
+
+</summary>
 
 Опубликовано приложение Odin в [Google Play](https://play.google.com/store/apps/details?id=study.odin.www.twa).
 
@@ -18,12 +21,18 @@ description: >-
 
 <details>
 
-<summary>На <strong>IPhone:</strong></summary>
+<summary>
+
+На **IPhone:**
+
+</summary>
 
 Odin **нет** в AppStore, но вы можете установить PWA - **приложение** для SPA на мобильной версии **через браузер**:
 
 1. Зайдите в браузер Safari
-2. Меню браузера нажмите на <img src="https://lh5.googleusercontent.com/-hL7UL4PFy3jAarjhrsbtiD-655-RXpZAVOWMTB17_Sq0iOg64Smrorc8ORGb8KSzuTg8FOGNV4nj8zHjGa5E5nhEtjoi4PNzJNVKzI8--od-mwqxCbcb6--j8pi3dmTjCrocVYZqqQ5TGbs5g" alt="" data-size="line">.
+2. Меню браузера нажмите на ![](https://lh5.googleusercontent.com/-hL7UL4PFy3jAarjhrsbtiD-655-RXpZAVOWMTB17_Sq0iOg64Smrorc8ORGb8KSzuTg8FOGNV4nj8zHjGa5E5nhEtjoi4PNzJNVKzI8--od-mwqxCbcb6--j8pi3dmTjCrocVYZqqQ5TGbs5g)
+
+   .
 
 ![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
@@ -40,3 +49,5 @@ Odin **нет** в AppStore, но вы можете установить PWA - *
 ![](<../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png>)
 
 </details>
+
+

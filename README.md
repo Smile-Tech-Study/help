@@ -14,22 +14,22 @@ title: ODIN
 
 ## Структура
 
-- [Университет](./struktura/universitet/_index)
+-  [Университет](./struktura/universitet/_index)
 
-- [Подразделение](./struktura/podrazdelenie)
+-  [Подразделение](./struktura/podrazdelenie)
 
-- [Программа](./struktura/programma/_index)
+-  [Программа](./struktura/programma/_index)
 
-- [Поток](./struktura/potok)
+-  [Поток](./struktura/potok)
 
-- [Дисциплина](./struktura/disciplina/_index)
+-  [Дисциплина](./struktura/disciplina/_index)
 
 ## Коммуникация
 
-- [Уведомления](./kommunikaciya/uvedomleniya)
+-  [Уведомления](./kommunikaciya/uvedomleniya)
 
-- [Чат](./kommunikaciya/chat/_index)
+-  [Чат](./kommunikaciya/chat/_index)
 
-- [Видеозвонки](./kommunikaciya/videozvonki)
+-  [Видеозвонки](./kommunikaciya/videozvonki)
 
 [video:https://rutube.ru/video/310e4851ceeeb02bb51ae8a66fe53b47]
