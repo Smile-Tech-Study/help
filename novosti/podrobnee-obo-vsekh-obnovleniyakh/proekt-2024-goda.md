@@ -3,6 +3,6 @@
 Добавили в Odin на страницу создания/редактирования программ поддержку 2024 года. \
 
 
-<figure><img src="../../.gitbook/assets/image (791).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (155).png>)
 
 26.12.2023

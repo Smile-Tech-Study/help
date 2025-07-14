@@ -2,10 +2,10 @@
 
 В выгрузку “Экспорт оценок в Excel” добавлена колонка “Unti-Id”.
 
-<figure><img src="../../.gitbook/assets/image (985).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (344).png>)
 
 А также в отчет "Экспорт посещаемости в Excel".
 
-<figure><img src="../../.gitbook/assets/image (986).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (345).png>)
 
 24.10.2024

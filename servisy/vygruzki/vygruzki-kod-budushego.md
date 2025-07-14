@@ -1,44 +1,40 @@
 # Выгрузки Код будущего
 
-{% tabs %}
-{% tab title="Вступительное испытание" %}
+[tabs]
+[tab:Вступительное испытание]
 Для получения выгрузки на странице активности в правом боковом меню необходимо нажать на кнопку "Вступительное испытание".
 
-<figure><img src="../../.gitbook/assets/image (378).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (2) (3) (1).png>)
 
-{% file src="../../.gitbook/assets/Вступительное испытание (Код будущего).xlsx" %}
-Пример выгрузки
-{% endfile %}
-{% endtab %}
+[Пример выгрузки](<../../.gitbook/assets/Вступительное испытание (Код будущего).xlsx">)
 
-{% tab title="Промежуточное испытание" %}
+[/tab]
+
+[tab:Промежуточное испытание]
 Для получения выгрузки на странице Дисциплины по вкладке Оценки необходимо выбрать Промежуточное испытание.
 
-<figure><img src="../../.gitbook/assets/image (404).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (5) (3) (1).png>)
 
-{% file src="../../.gitbook/assets/Промежуточное испытание (Код будущего).xlsx" %}
-Пример выгрузки
-{% endfile %}
-{% endtab %}
+[Пример выгрузки](<../../.gitbook/assets/Промежуточное испытание (Код будущего).xlsx">)
 
-{% tab title="Журнал посещений в Excel" %}
+[/tab]
+
+[tab:Журнал посещений в Excel]
 Для получения выгрузки на странице Дисциплины по вкладке Посещаемость необходимо выбрать Журнал посещений в Excel.
 
-<figure><img src="../../.gitbook/assets/image (669).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (7) (3).png>)
 
-{% file src="../../.gitbook/assets/Журнал посещений в Excel (Код будущего).xlsx" %}
-Пример выгрузки
-{% endfile %}
-{% endtab %}
+[Пример выгрузки](<../../.gitbook/assets/Журнал посещений в Excel (Код будущего).xlsx">)
 
-{% tab title="Журнал выполнения практических заданий в Excel " %}
+[/tab]
+
+[tab:Журнал выполнения практических заданий в Excel]
 Для получения выгрузки на странице Дисциплины по вкладке Посещаемость необходимо выбрать Журнал выполнения практических заданий в Excel.
 
-<figure><img src="../../.gitbook/assets/image (648).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (6) (1) (2).png>)
 
-{% file src="../../.gitbook/assets/Журнал выполнения практических заданий в Excel (Код будущего).xlsx" %}
-Пример выгрузки
-{% endfile %}
-{% endtab %}
-{% endtabs %}
+[Пример выгрузки](<../../.gitbook/assets/Журнал выполнения практических заданий в Excel (Код будущего).xlsx">)
+
+[/tab]
+[/tabs]
 

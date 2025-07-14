@@ -9,10 +9,10 @@ description: >-
 
 Было решено вместо этого отображать библиотеку.
 
-<figure><img src="../../.gitbook/assets/image (357).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (117).png>)
 
 При открытии библиотеки в ней отображаются только подходящие материалы, то есть только шаблоны активностей.
 
-<figure><img src="../../.gitbook/assets/image (656).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (6) (4) (1).png>)
 
 11.11.2022

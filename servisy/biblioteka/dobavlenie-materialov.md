@@ -36,7 +36,7 @@
 
 <img src="../../.gitbook/assets/Screenshot_470.png" alt="" data-size="original">
 
-<img src="../../.gitbook/assets/Screenshot_472.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/Screenshot_472 (1).png" alt="" data-size="original">
 
 В этом случае материал будет добавлен в личную библиотеку пользователя, библиотеку дисциплины и образовательную активность.
 
@@ -48,10 +48,10 @@
 
 1\) Зайдите на страницу подразделения, далее выберите "Библиотека".
 
-![](<../../.gitbook/assets/image (938).png>)
+![](<../../.gitbook/assets/image (297).png>)
 
-2\) Добавьте материал в библиотеку.&#x20;
+2\) Добавьте материал в библиотеку.
 
-![](<../../.gitbook/assets/image (939).png>)
+![](<../../.gitbook/assets/image (298).png>)
 
 </details>

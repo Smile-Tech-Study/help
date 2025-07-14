@@ -10,7 +10,7 @@ description: >-
 
 Поэтому для пользователя с ролью “Администратор организации” добавили подсказку на дашборде.
 
-<figure><img src="../../.gitbook/assets/image (789).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (153).png>)
 
 Данная подсказка будет видна на дашборде только когда:
 

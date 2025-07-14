@@ -6,9 +6,9 @@
 
 1. Откройте чат Odin и нажмите три точки в правом углу чата. Удаление доступно только создателю чата, преподавателю дисциплины или администратору.
 
-<figure><img src="../../.gitbook/assets/image (590).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (25) (4).png>)
 
 2\. В появившимся окне нажмите кнопку<img src="broken-reference" alt="" data-size="line">.
 
-![](https://lh5.googleusercontent.com/iFtjjLpK__pGWSql6MvEKl40vZEfGxf4WOFcxMWbgrVcuGUYQ5rwe2Aul280zZ0G3MdGIFufDhZbTEnDm9sJi4ymHV3DH7WHdYeAFCR_X1br8eNRiuGTQ8_6hy4NySOFTEeVmT_Z)
+![](https://lh5.googleusercontent.com/iFtjjLpK\_\_pGWSql6MvEKl40vZEfGxf4WOFcxMWbgrVcuGUYQ5rwe2Aul280zZ0G3MdGIFufDhZbTEnDm9sJi4ymHV3DH7WHdYeAFCR\_X1br8eNRiuGTQ8\_6hy4NySOFTEeVmT\_Z)
 

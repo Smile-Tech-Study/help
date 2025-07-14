@@ -2,6 +2,6 @@
 
 Добавили отображение информации о синхронизации потока с Flow на страницу потока.
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (8).png>)
 
 20.02.2025

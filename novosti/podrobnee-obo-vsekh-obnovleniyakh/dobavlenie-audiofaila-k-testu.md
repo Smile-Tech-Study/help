@@ -8,10 +8,10 @@ description: >-
 
 Тестирование может включать в себя часть аудирования. В таком случае при добавлении вопроса в тест у пользователя появилась возможность добавить аудиофайл.
 
-<figure><img src="../../.gitbook/assets/image (931).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (290).png>)
 
 По нажатию на кнопку открывается предбанник:
 
-<figure><img src="../../.gitbook/assets/image (932).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (291).png>)
 
 05.04.2024

@@ -1,47 +1,35 @@
-# ODIN
+---
+title: ODIN
+---
 
 **LMS Odin** - система управления обучением. Облегчает создание и управление всеми образовательными процессами: создание и проведение онлайн-занятий, организацию асинхронных программ, оценку и аттестацию студентов.
 
-{% hint style="success" %}
-Про все обновления системы регулярно рассказываем в Telegram-канале [@odin\_update](https://t.me/+JoF696WdDTxlNjhi) и в [справке](novosti/podrobnee-obo-vsekh-obnovleniyakh/).&#x20;
-{% endhint %}
+:::tip 
 
-<figure><img src=".gitbook/assets/Таблица 3.png" alt=""><figcaption></figcaption></figure>
+Про все обновления системы регулярно рассказываем в Telegram-канале [@odin_update](https://t.me/+JoF696WdDTxlNjhi) и в [справке](./novosti/podrobnee-obo-vsekh-obnovleniyakh/_index).
 
-## Структура&#x20;
+:::
 
-{% content-ref url="struktura/organizaciya/" %}
-[organizaciya](struktura/organizaciya/)
-{% endcontent-ref %}
+![](<.gitbook/assets/Таблица 3.png>)
 
-{% content-ref url="struktura/podrazdelenie.md" %}
-[podrazdelenie.md](struktura/podrazdelenie.md)
-{% endcontent-ref %}
+## Структура
 
-{% content-ref url="struktura/programma/" %}
-[programma](struktura/programma/)
-{% endcontent-ref %}
+- [Университет](./struktura/universitet/_index)
 
-{% content-ref url="struktura/potok.md" %}
-[potok.md](struktura/potok.md)
-{% endcontent-ref %}
+- [Подразделение](./struktura/podrazdelenie)
 
-{% content-ref url="struktura/disciplina/" %}
-[disciplina](struktura/disciplina/)
-{% endcontent-ref %}
+- [Программа](./struktura/programma/_index)
+
+- [Поток](./struktura/potok)
+
+- [Дисциплина](./struktura/disciplina/_index)
 
 ## Коммуникация
 
-{% content-ref url="kommunikaciya/uvedomleniya.md" %}
-[uvedomleniya.md](kommunikaciya/uvedomleniya.md)
-{% endcontent-ref %}
+- [Уведомления](./kommunikaciya/uvedomleniya)
 
-{% content-ref url="kommunikaciya/chat/" %}
-[chat](kommunikaciya/chat/)
-{% endcontent-ref %}
+- [Чат](./kommunikaciya/chat/_index)
 
-{% content-ref url="kommunikaciya/videozvonki/" %}
-[videozvonki](kommunikaciya/videozvonki/)
-{% endcontent-ref %}
+- [Видеозвонки](./kommunikaciya/videozvonki)
 
-{% embed url="https://rutube.ru/video/7c01fb364abe302b11b4a1c13e4b2cd8/?r=wd" %}
+[video:https://rutube.ru/video/310e4851ceeeb02bb51ae8a66fe53b47]

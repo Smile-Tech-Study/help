@@ -8,6 +8,6 @@ description: Переименовали Университет в Организ
 
 Таким образом, поменяли “Университет” на “Организация” во всей системе (в боковом меню, на странице списков и т.д.)
 
-<figure><img src="../../.gitbook/assets/image (627).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (3) (1) (1) (2).png>)
 
 27.07.2023

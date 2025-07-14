@@ -10,11 +10,13 @@ description: Откройте страницу дисциплины
 
 Дисциплина появится в боковом меню слева.
 
-![](../.gitbook/assets/Screenshot_661.png)
+![](../.gitbook/assets/Screenshot\_661.png)
 
-{% hint style="info" %}
+:::info
+
 Список всех ваших дисциплин можно посмотреть на Дашборде.
-{% endhint %}
+
+:::
 
 ### Как убрать дисциплину из меню?
 
@@ -22,5 +24,5 @@ description: Откройте страницу дисциплины
 
 Дисциплина исчезнет из левого бокового меню.
 
-![](../.gitbook/assets/Screenshot_660.png)
+![](../.gitbook/assets/Screenshot\_660.png)
 

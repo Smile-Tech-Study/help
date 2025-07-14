@@ -10,22 +10,22 @@ description: Добавили расписание для пользовател
 
 1. Добавили в боковое меню раздел “Расписание” для пользователь с ролью куратор
 
-<figure><img src="../../.gitbook/assets/image (536).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (130).png>)
 
 2. Карточки занятий делаем по аналогии с текущими карточками, однако для кураторов добавляем еще в карточку информацию о группе.
 
-<figure><img src="../../.gitbook/assets/image (548).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (131).png>)
 
 2. В режиме “День” меняем отображение карточки для кураторов на следующее:
 
-<figure><img src="../../.gitbook/assets/image (569).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (132).png>)
 
-2. В режиме “Расписание” также несколько поменяли отображение, добавляя еще один столбец с группами.&#x20;
+2. В режиме “Расписание” также несколько поменяли отображение, добавляя еще один столбец с группами.
 
-<figure><img src="../../.gitbook/assets/image (524).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (133).png>)
 
 3. Наконец, в виджете “Ближайшие активности” сделали специальное отображение активностей для кураторов.
 
-<figure><img src="../../.gitbook/assets/image (529).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (134).png>)
 
 28.07.2023

@@ -19,18 +19,18 @@ description: >-
 
 При включенной синхронизации отображается надпись “Синхронизация с Flow” в профиле пользователя.
 
-<figure><img src="../../.gitbook/assets/image (933).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (292).png>)
 
 По наведению на эту надпись показывается подсказка:
 
-<figure><img src="../../.gitbook/assets/image (934).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (293).png>)
 
 На странице редактирования профиля также показывается надпись “Синхронизация с Flow” и отключается возможность редактирования синхронизируемой информации:
 
-<figure><img src="../../.gitbook/assets/image (935).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (294).png>)
 
 Для потоков, где включена синхронизация с Flow, на странице завершения обучения для студентов добавляем блок “Данные из Flow”. Отображаются: актуальное фото из Flow по ученику, ФИО и дата рождения, email из заявки Flow.
 
-<figure><img src="../../.gitbook/assets/image (936).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (295).png>)
 
 08.04.2024

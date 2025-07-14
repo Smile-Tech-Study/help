@@ -12,7 +12,7 @@
 
 3\. Откройте “Фильтры и поиск”
 
-<figure><img src="../../.gitbook/assets/image (578).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (19) (4).png>)
 
 
 
@@ -20,6 +20,6 @@
 
 5\. Выберите тип или несколько типов активностей
 
-<figure><img src="../../.gitbook/assets/image (413).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (39) (1).png>)
 
-> &#x20;Дата публикации: 03.03.2022
+> Дата публикации: 03.03.2022

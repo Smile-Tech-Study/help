@@ -5,34 +5,34 @@
 **Подробнее в чём это выражено:**\
 1\. На странице архивного потока каждая из дисциплины отмечена соответствующим значком.
 
-<figure><img src="../../.gitbook/assets/image (728).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (2) (5) (1).png>)
 
 2. При попытке открыть Дисциплину будет отображаться заглушка.
 
-<figure><img src="../../.gitbook/assets/image (731).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (5) (3) (2) (1).png>)
 
 3\. При попытке открыть какую-либо активность или материал по прямой ссылке  отображаться заглушка.\
 
 
-<figure><img src="../../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (1) (4) (1) (1).png>)
 
 ### Как отправить в архив поток?
 
 На странице потока администратору необходимо нажать на кнопку "Отправить в архив".
 
-<figure><img src="../../.gitbook/assets/image (516).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (6) (2) (3).png>)
 
 Затем подтвердить свои действия.\
-&#x20;
 
-<figure><img src="../../.gitbook/assets/image (259).png" alt=""><figcaption></figcaption></figure>
+
+![](<../../.gitbook/assets/image (3) (4) (2).png>)
 
 ### Как восстановить поток из архива?
 
 На странице потока администратору необходимо нажать на кнопку "Восстановить из архива".
 
-<figure><img src="../../.gitbook/assets/image (730).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (4) (8) (1) (1) (1).png>)
 
 И подтвердить свои действия.
 
-<figure><img src="../../.gitbook/assets/image (294).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (49).png>)

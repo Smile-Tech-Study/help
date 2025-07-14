@@ -4,8 +4,8 @@ description: Добавили возможность вернуться в Odin 
 
 # Вернуться в Odin
 
-Когда звонок завершен, теперь отображается кнопка "Вернуться в Odin".&#x20;
+Когда звонок завершен, теперь отображается кнопка "Вернуться в Odin".
 
-<figure><img src="../../.gitbook/assets/image (742).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (10) (3) (2).png>)
 
 07.03.2023

@@ -1,6 +1,8 @@
 # Для преподавателей
 
-{% embed url="https://rutube.ru/video/0b8dda2e5316a8a826a9ecaf074a4c18/" %}
+{% embed url="https://www.youtube.com/watch?v=kgqrrvS307A" %}
+
+{% embed url="https://rutube.ru/video/81923383acd2134d95a09b4f1383de97/" %}
 
 {% content-ref url="kak-nachat-ispolzovat-zvonki-v-odin-na-zanyatii.md" %}
 [kak-nachat-ispolzovat-zvonki-v-odin-na-zanyatii.md](kak-nachat-ispolzovat-zvonki-v-odin-na-zanyatii.md)

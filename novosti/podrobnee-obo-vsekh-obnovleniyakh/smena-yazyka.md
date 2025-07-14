@@ -12,10 +12,10 @@
 
 Непосредственно внутри Odin переключение языка доступно в левом нижнем углу страницы.
 
-<figure><img src="../../.gitbook/assets/image (997).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (356).png>)
 
 Также есть возможность переключения на другой язык на странице авторизации: в правом нижнем углу.
 
-<figure><img src="../../.gitbook/assets/image (998).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (357).png>)
 
 28.02.2025

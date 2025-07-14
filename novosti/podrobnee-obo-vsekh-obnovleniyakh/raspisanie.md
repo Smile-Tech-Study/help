@@ -8,7 +8,7 @@ description: >-
 
 На странице потока, находящегося в составе программы по нац.проекту, добавлена кнопка для выгрузки с названием “Расписание”.
 
-<figure><img src="../../.gitbook/assets/image (27).png" alt="" width="563"><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Выгрузка, скачиваемая по нажатию на кнопку, содержит следующие переменные:
 

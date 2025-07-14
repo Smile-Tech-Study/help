@@ -8,6 +8,6 @@ description: Реализовали преобразование ссылок н
 
 Сейчас сделали так, что при вставке ссылки отображается iframe.
 
-<figure><img src="../../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 13.12.2023

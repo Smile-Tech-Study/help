@@ -2,6 +2,6 @@
 
 Реализовали преобразование ссылок с Rutube в iframe.
 
-<figure><img src="../../.gitbook/assets/image (1001).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (360).png>)
 
 04.03.2025
