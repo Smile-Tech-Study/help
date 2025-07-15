@@ -1,9 +1,19 @@
-# Начало работы
+---
+title: Начало работы
+---
 
-* [x] Заполните страницу [Организации](../struktura/universitet/)
-* [x] Создайте [Подразделение](../struktura/podrazdelenie.md) и назначьте [Администратора](../instrukcii-po-rabote/dlya-administratorov/kak-naznachit-administratora-..md)
-* [x] Добавьте [Программу](../struktura/programma/) и назначьте [Администратора](../instrukcii-po-rabote/dlya-administratorov/kak-naznachit-administratora-..md)
-* [x] Сформируйте [Поток](../struktura/potok.md) и его [Группы](../struktura/gruppa.md)
-* [x] Наполните [Дисциплины](../struktura/disciplina/) [Активностями](../struktura/aktivnosti/)
-* [x] Закрепите [Преподавателя](../instrukcii-po-rabote/dlya-administratorov/kak-naznachit-prepodavatelya.md) и [Куратора](../instrukcii-po-rabote/kuratory/naznachenie-roli.md)
+* [x] Заполните страницу [Организации](./../struktura/universitet/_index)
+
+* [x] Создайте [Подразделение](./../struktura/podrazdelenie) и назначьте [Администратора](./../instrukcii-po-rabote/dlya-administratorov/kak-naznachit-administratora-.)
+
+* [x] Добавьте [Программу](./../struktura/programma/_index) и назначьте [Администратора](./../instrukcii-po-rabote/dlya-administratorov/kak-naznachit-administratora-.)
+
+* [x] Сформируйте [Поток](./../struktura/potok) и его [Группы](./../struktura/gruppa)
+
+* [x] Наполните [Дисциплины](./../struktura/disciplina/_index) [Активностями](./../struktura/aktivnosti/_index)
+
+* [x] Закрепите [Преподавателя](./../instrukcii-po-rabote/dlya-administratorov/kak-naznachit-prepodavatelya) и [Куратора](./../instrukcii-po-rabote/kuratory/naznachenie-roli)
+
 * [x] Проводите занятия в Odin!
+
+
