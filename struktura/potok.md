@@ -1,3 +1,8 @@
+---
+title: Поток
+order: 0.96
+---
+
 # Поток
 
 На базе каждого подразделения в организации в программе [основного](programma/programma-osnovnogo-obrazovaniya/) или [дополнительного](programma/programma-dopolnitelnogo-obrazovaniya/) образования обучаются группы студентов, объединённые в Поток.
