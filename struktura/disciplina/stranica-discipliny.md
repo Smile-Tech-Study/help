@@ -1,5 +1,7 @@
 ---
 description: Подробнее о странице дисциплины
+title: Страница дисциплины
+order: 1
 ---
 
 # Страница дисциплины
@@ -117,4 +119,3 @@ description: Подробнее о странице дисциплины
 <img src="../../.gitbook/assets/image (54) (1) (1) (1).png" alt="" data-size="original">
 
 </details>
-

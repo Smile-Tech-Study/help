@@ -2,9 +2,8 @@
 description: >-
   В этом разделе вы найдете основные термины и понятия, которые используются в
   LMS Odin.
+title: Основные понятия
 ---
-
-# Основные понятия
 
 #### LMS (Learning management system)
 
@@ -40,11 +39,10 @@ description: >-
 
 #### Поток
 
-На базе каждого подразделения в университете в программе [основного](../struktura/programma/programma-osnovnogo-obrazovaniya/) или [дополнительного](../struktura/programma/programma-dopolnitelnogo-obrazovaniya/) образования обучаются группы студентов, объединённые в Поток.
+На базе каждого подразделения в университете в программе [основного](./../struktura/programma/programma-osnovnogo-obrazovaniya/_index) или [дополнительного](./../struktura/programma/programma-osnovnogo-obrazovaniya/programma-dopolnitelnogo-obrazovaniya/_index) образования обучаются группы студентов, объединённые в Поток.
 
 В рамках дополнительного образования новый набор = новый поток.
 
 #### Тема
 
 Необязательное структурное деление Дисциплины. Тема может быть добавлена в Модуль или быть отдельной частью  Дисциплины. Тема обычно объединяет несколько Активностей.
-
