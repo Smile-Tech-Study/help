@@ -108,4 +108,3 @@ description: >-
 {% content-ref url="stranica-discipliny.md" %}
 [stranica-discipliny.md](stranica-discipliny.md)
 {% endcontent-ref %}
-
