@@ -16,7 +16,7 @@ title: Программа
 
 ![](<../../.gitbook/assets/photo_2025-02-20 13.37.36.jpeg>)
 
--  [Дополнительное образование](./../programma-dopolnitelnogo-obrazovaniya/_index)
+-  [Дополнительное образование](./programma-osnovnogo-obrazovaniya/shablon-programmy-osnovnogo-obrazovaniya/programma-dopolnitelnogo-obrazovaniya/_index)
    -  ДПО (повышение квалификации)
    -  ДПО (профессиональная переподготовка)
    -  ПО (профессиональная подготовка)

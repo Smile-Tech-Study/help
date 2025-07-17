@@ -3,7 +3,7 @@ title: Поток
 order: 0.994
 ---
 
-На базе каждого подразделения в организации в программе [основного](./programma/programma-osnovnogo-obrazovaniya/_index) или [дополнительного](./programma-dopolnitelnogo-obrazovaniya/_index) образования обучаются группы студентов, объединённые в Поток.
+На базе каждого подразделения в организации в программе [основного](./programma/programma-osnovnogo-obrazovaniya/_index) или [дополнительного](./programma/programma-osnovnogo-obrazovaniya/shablon-programmy-osnovnogo-obrazovaniya/programma-dopolnitelnogo-obrazovaniya/_index) образования обучаются группы студентов, объединённые в Поток.
 
 В Потоке  основных образовательных программ организации (Бакалавриат и Магистратура) предусмотрено деление на [семестры](./programma/programma-osnovnogo-obrazovaniya/dobavlenie-semestra), для которых добавляются [дисциплины](./disciplina/_index) в соответствии с учебной программой.
 

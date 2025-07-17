@@ -1,6 +1,6 @@
 ---
 title: Программа
-order: 0.989002
+order: 0.993
 ---
 
 [view:hierarchy=none::::List]

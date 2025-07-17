@@ -1,6 +1,6 @@
 ---
 title: Программа дополнительного образования
-order: 0.989502
+order: 0.993501
 ---
 
 [view:hierarchy=none::::List]

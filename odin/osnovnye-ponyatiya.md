@@ -39,7 +39,7 @@ title: Основные понятия
 
 #### Поток
 
-На базе каждого подразделения в университете в программе [основного](./../struktura/programma/programma-osnovnogo-obrazovaniya/_index) или [дополнительного](./../struktura/programma-dopolnitelnogo-obrazovaniya/_index) образования обучаются группы студентов, объединённые в Поток.
+На базе каждого подразделения в университете в программе [основного](./../struktura/programma/programma-osnovnogo-obrazovaniya/_index) или [дополнительного](./../struktura/programma-dopolnitelnogo-obrazovaniya-2/_index) образования обучаются группы студентов, объединённые в Поток.
 
 В рамках дополнительного образования новый набор = новый поток.
 
