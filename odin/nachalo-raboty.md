@@ -10,7 +10,7 @@ title: Начало работы
 
 * [x] Сформируйте [Поток](./../struktura/potok) и его [Группы](./../struktura/gruppa)
 
-* [x] Наполните [Дисциплины](./../struktura/disciplina/_index) [Активностями](./../aktivnosti/_index)
+* [x] Наполните [Дисциплины](./../struktura/disciplina/_index) [Активностями](./../struktura/disciplina/aktivnosti/_index)
 
 * [x] Закрепите [Преподавателя](./../instrukcii-po-rabote/dlya-administratorov/kak-naznachit-prepodavatelya) и [Куратора](./../instrukcii-po-rabote/kuratory/naznachenie-roli)
 
