@@ -1,6 +1,6 @@
 ---
 title: Активности
-order: 0.539378
+order: 7
 ---
 
 [view:hierarchy=none::::List]
