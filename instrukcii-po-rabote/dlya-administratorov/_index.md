@@ -1,5 +1,6 @@
 ---
 title: Для администраторов
+order: 1
 ---
 
 [view:hierarchy=none::::List]
