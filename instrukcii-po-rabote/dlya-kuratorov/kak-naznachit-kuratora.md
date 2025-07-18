@@ -13,7 +13,7 @@ title: 👩‍👧‍👦 Как назначить куратора?
 
 :::
 
-Чаще всего куратор занимается наполнением [дисциплин](https://informa.gitbook.io/odin/struktura/disciplina), созданием и ведением чатов в [Odin](broken-reference) и Telegram.
+Чаще всего куратор занимается наполнением [дисциплин](https://informa.gitbook.io/odin/struktura/disciplina), созданием и ведением чатов в [Odin](./../dlya-kuratorov/broken-reference) и Telegram.
 
 ### Назначение роли Куратор
 
@@ -25,7 +25,7 @@ title: 👩‍👧‍👦 Как назначить куратора?
 
 <figure>
 
-![](<../../.gitbook/assets/image (807).png>)
+![](<./image (807).png>)
 
 <figcaption>
 
@@ -41,7 +41,7 @@ title: 👩‍👧‍👦 Как назначить куратора?
 
 <figure>
 
-![](<../../.gitbook/assets/image (142).png>)
+![](<./image (142).png>)
 
 <figcaption>
 
@@ -55,7 +55,7 @@ title: 👩‍👧‍👦 Как назначить куратора?
 
 <figure>
 
-![](<../../.gitbook/assets/image (808).png>)
+![](<./image (808).png>)
 
 <figcaption>
 
