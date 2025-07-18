@@ -1,6 +1,6 @@
 ---
 title: Для кураторов
-order: 0.1
+order: 1
 ---
 
 [view:hierarchy=none::::List]

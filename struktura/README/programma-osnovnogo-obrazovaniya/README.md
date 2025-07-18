@@ -28,6 +28,6 @@ title: Программа основного образования
 
 -  Время - на сколько часов/зачётных единиц рассчитана данная программа
 
--  Администратора/администраторов. [Как назначить администратора?](./../../../instrukcii-po-rabote/dlya-administratorov/kak-naznachit-administratora-.)
+-  Администратора/администраторов. [Как назначить администратора?](./../../../instrukcii-po-rabote/testirovanie-iz-skorm-paketov/dlya-administratorov/kak-naznachit-administratora-.)
 
 [video:https://rutube.ru/video/8bb532770b8b5a17449321d136b6069a/?r=wd]

@@ -6,4 +6,4 @@ title: Посещаемость
 
 ![](https://lh6.googleusercontent.com/GHgEeL_CkfBs2sJ_73WzwPbXrOzsILSf5qDhHQbcjDFsFJkMeSS6fMoDWKxz5X1820Joqjdkgo-PwIz6D1roxG-L8aQ7uua7THKiDNEgFAPsCZiibzpcGIzKWz9PrNYZTOR4zYGS)
 
-Отметки о посещении будут выставлены, если студент зайдёт на страницу активности и нажмет кнопку “Завершить активность”. (Для активностей [Задание](./../../struktura/aktivnosti/zadanie/) - следует отправить решение и дождаться проверки, для активности с типом [Контрольная](./../../struktura/aktivnosti/kontrolnaya/)[ ](./../../servisy/biblioteka/materialy/test/_index)\- пройти тест). После этого галочка на посещении активность будет выставлена автоматически.
+Отметки о посещении будут выставлены, если студент зайдёт на страницу активности и нажмет кнопку “Завершить активность”. (Для активностей [Задание](./../../../struktura/aktivnosti/zadanie/) - следует отправить решение и дождаться проверки, для активности с типом [Контрольная](./../../../struktura/aktivnosti/kontrolnaya/)[ ](./../../../servisy/biblioteka/materialy/test/_index)\- пройти тест). После этого галочка на посещении активность будет выставлена автоматически.

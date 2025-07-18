@@ -6,7 +6,7 @@ title: Добавление Контрольной
 
 ![](./Screenshot_778.png)
 
-При создании/редактировании активности "Контрольная" в блоке "Материалы" [добавьте тест ](./../../../../instrukcii-po-rabote/dlya-prepodavatelei/kak-sozdat-test-poshagovaya-instrukciya)и другие [материалы](./../../../../servisy/biblioteka/materialy/_index) при необходимости, выставите тип активности, режим выполнения, временной лимит, минимальный порог баллов.
+При создании/редактировании активности "Контрольная" в блоке "Материалы" [добавьте тест ](./../../../../instrukcii-po-rabote/testirovanie-iz-skorm-paketov/dlya-prepodavatelei/kak-sozdat-test-poshagovaya-instrukciya)и другие [материалы](./../../../../servisy/biblioteka/materialy/_index) при необходимости, выставите тип активности, режим выполнения, временной лимит, минимальный порог баллов.
 
 ![](./Screenshot_774.png)
 
