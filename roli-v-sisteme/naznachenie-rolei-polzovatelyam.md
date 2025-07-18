@@ -1,10 +1,11 @@
 ---
 description: Подробнее о назначении  каждой роли в системе
 order: 0.5
+title: Назначение ролей пользователям
 ---
 
-# Назначение ролей пользователям
-
-
-
-<table><thead><tr><th width="238">Роль</th><th data-type="content-ref">Назначение</th></tr></thead><tbody><tr><td><strong>Администратор</strong></td><td><a href="../instrukcii-po-rabote/dlya-administratorov/kak-naznachit-administratora-..md">kak-naznachit-administratora-..md</a></td></tr><tr><td><strong>Преподаватель</strong></td><td><a href="../instrukcii-po-rabote/dlya-administratorov/kak-naznachit-prepodavatelya.md">kak-naznachit-prepodavatelya.md</a></td></tr><tr><td><strong>Куратор</strong></td><td><a href="../instrukcii-po-rabote/kuratory/naznachenie-roli.md">naznachenie-roli.md</a></td></tr></tbody></table>
+| Роль          | Назначение                                                                                                          |
+|---------------|---------------------------------------------------------------------------------------------------------------------|
+| Администратор | 👩‍⚖️[Как назначить администратора?](./../instrukcii-po-rabote/dlya-administratorov/kak-naznachit-administratora-.) |
+| Преподаватель | 🧑‍🏫[Как назначить преподавателя?](./../instrukcii-po-rabote/dlya-administratorov/kak-naznachit-prepodavatelya)    |
+| Куратор       | 👩‍👧‍👦[Как назначить куратора?](./../instrukcii-po-rabote/dlya-kuratorov/kak-naznachit-kuratora)                  |
