@@ -40,7 +40,7 @@ order: 0.8
 
 -  краткое название на английском языке.
 
-Выбрать администратора или администраторов. [Как назначить администратора?](./../instrukcii-po-rabote/testirovanie-iz-skorm-paketov/dlya-administratorov/kak-naznachit-administratora-.)
+Выбрать администратора или администраторов. [Как назначить администратора?](./../instrukcii-po-rabote/dlya-administratorov/kak-naznachit-administratora-.)
 
 На странице созданного Подразделения можно:
 

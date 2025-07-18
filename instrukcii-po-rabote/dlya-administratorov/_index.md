@@ -1,6 +1,6 @@
 ---
 title: Для администраторов
-order: 0.3
+order: 0.1
 ---
 
 [view:hierarchy=none::::List]
