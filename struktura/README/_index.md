@@ -10,20 +10,30 @@ order: 0.898
 
 ### Типы образовательных программ
 
--  [Основное образование](./../programma/programma-osnovnogo-obrazovaniya/_index)
+-  [Основное образование](./programma-osnovnogo-obrazovaniya/_index)
+
    -  Бакалавриат
+
    -  Магистратура
+
    -  Среднее профессиональное образование
 
 ![](<./photo_2025-02-20 13.37.36.jpeg>)
 
 -  [Дополнительное образование](./../programma/programma-osnovnogo-obrazovaniya/shablon-programmy-osnovnogo-obrazovaniya/programma-dopolnitelnogo-obrazovaniya/_index)
+
    -  ДПО (повышение квалификации)
+
    -  ДПО (профессиональная переподготовка)
+
    -  ПО (профессиональная подготовка)
+
    -  ПО (переподготовка)
+
    -  ПО (повышение квалификации)
+
    -  Дополнительное образование для школьников
+
    -  Общеразвивающая программа
 
 ![](<./photo_2025-02-20 13.38.23.jpeg>)
