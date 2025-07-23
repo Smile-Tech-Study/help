@@ -14,11 +14,11 @@ title: ODIN
 
 ## Структура
 
--  [Университет](./struktura/universitet/_index)
+-  [Организация](./struktura/organizaciya/README)
 
 -  [Подразделение](./struktura/podrazdelenie)
 
--  [Программа](./struktura/programma/_index)
+-  [Программа](./struktura/README/_index)
 
 -  [Поток](./struktura/potok)
 
@@ -30,6 +30,6 @@ title: ODIN
 
 -  [Чат](./kommunikaciya/chat/_index)
 
--  [Видеозвонки](./kommunikaciya/videozvonki)
+-  [Видеозвонки](./kommunikaciya/videozvonki/_index)
 
 [video:https://rutube.ru/video/310e4851ceeeb02bb51ae8a66fe53b47]
