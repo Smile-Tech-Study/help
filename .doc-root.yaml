@@ -3,11 +3,11 @@ optionalCategoryIndex: true
 supportedLanguages: []
 properties: []
 link:
-  name: odin
+  name: helpOdin
   pathname: github.com/Smile-Tech-Study/helpOdin/main/-
   lastVisited: github.com/Smile-Tech-Study/helpOdin/main/-/struktura/disciplina
   logo: null
-  title: odin
+  title: helpOdin
   query: {}
   group: null
   code: ""
@@ -19,7 +19,7 @@ link:
   redirectOnClone: null
 relatedLinks: []
 name: odin
-repositoryName: odin
+repositoryName: helpOdin
 sourceName: github.com
 userInfo:
   mail: kitlove51@list.ru
