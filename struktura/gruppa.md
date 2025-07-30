@@ -24,7 +24,7 @@ order: 0.995
 
 :::
 
-На странице  содания/редактирования группы также можно добавить куратора [Куратора](./../instrukcii-po-rabote/kuratory/naznachenie-roli).
+На странице  создания/редактирования группы также можно добавить куратора [Куратора](./../instrukcii-po-rabote/dlya-kuratorov/kak-naznachit-kuratora).
 
 ![](<../.gitbook/assets/image (211).png>)
 
