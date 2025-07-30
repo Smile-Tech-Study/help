@@ -1,10 +1,10 @@
-# Удаление дисциплин с активностями
+---
+title: Удаление дисциплин с активностями
+---
 
 Долгожданная новость! Стало доступно удаление дисциплины, содержащей активности.     Ранее для этого на странице редактирования дисциплин необходимо было удалить все Активности/Темы/Модули, затем только удалить саму Дисциплину.
 
-![](broken-reference)
-
-:::info
+:::info 
 
 Удалить возможно только ту дисциплину, где таблица оценок не содержит значений.
 
@@ -12,7 +12,7 @@
 
 1\. На странице редактирования дисциплин нажмите “Удалить дисциплину” и заполните поля “Название” и “Поток”. Мы просим заполнять эти данные, чтобы вы убедились, что удаляете лишнюю дисциплину.
 
-![](https://lh5.googleusercontent.com/8abyskEXUaVo6R19Z9SZ65YaG4DCJ-VWMAeQqRaa3co8C\_OxrRLVR01ckeeBadT0QDzKzPUhqp9jr0tqTHlVIHDo0jIDjPjgstLqCD2X-UPDMxYEV\_9y1dvGFuundxL431beO0lu2ITdqoc98Q)
+![](https://lh5.googleusercontent.com/8abyskEXUaVo6R19Z9SZ65YaG4DCJ-VWMAeQqRaa3co8C_OxrRLVR01ckeeBadT0QDzKzPUhqp9jr0tqTHlVIHDo0jIDjPjgstLqCD2X-UPDMxYEV_9y1dvGFuundxL431beO0lu2ITdqoc98Q)
 
 2\. Если в дисциплине была проставлена хотя бы одна оценка по любой из активностей, то она не может быть удалена. Удалить дисциплину можно только после удаления оценок в таблице.
 
@@ -20,6 +20,6 @@
 
 3\. Дисциплина удаляется сразу после подтверждения удаления, после этого восстановить её не получится.
 
-![](https://lh5.googleusercontent.com/uVa8GLsQY4VXbBgxigqGDSVDcNMUgVZ6ijw7moWn7NSjB86FE5ADRlmlkO31ghZCYiSgylA7qJQtmspWRiq\_quLJtH3Y-Rvg6BHbylGOQuu7sgeLZUnuVFvWOx5Aj1E9-djR3MQ3mwkzjUH2nA)
+![](https://lh5.googleusercontent.com/uVa8GLsQY4VXbBgxigqGDSVDcNMUgVZ6ijw7moWn7NSjB86FE5ADRlmlkO31ghZCYiSgylA7qJQtmspWRiq_quLJtH3Y-Rvg6BHbylGOQuu7sgeLZUnuVFvWOx5Aj1E9-djR3MQ3mwkzjUH2nA)
 
 Дата публикации: 10.06.2022
