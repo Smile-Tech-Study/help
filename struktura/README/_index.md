@@ -20,7 +20,7 @@ order: 0.898
 
 ![](<./photo_2025-02-20 13.37.36.jpeg>)
 
--  [Дополнительное образование](./../programma/programma-osnovnogo-obrazovaniya/shablon-programmy-osnovnogo-obrazovaniya/programma-dopolnitelnogo-obrazovaniya/_index)
+-  [Дополнительное образование](./programma-osnovnogo-obrazovaniya/programma-dopolnitelnogo-obrazovaniya-2/_index)
 
    -  ДПО (повышение квалификации)
 
@@ -55,3 +55,5 @@ order: 0.898
 Если по программе проводилось обучение удалить её **нельзя**, такую программу следует отправить в Архив.
 
 :::
+
+
