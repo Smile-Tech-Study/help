@@ -33,3 +33,5 @@ title: Рассылка уведомлений
 :::
 
 ![](./rassylka-uvedomlenii-3.png){width=768px height=178px}
+
+
