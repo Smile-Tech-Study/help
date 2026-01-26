@@ -10,3 +10,5 @@ title: Оценка за контрольную
 ![](./ocenka-za-kontrolnuyu.png){width=512px height=210px}
 
 19\.12.2025
+
+

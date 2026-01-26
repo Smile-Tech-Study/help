@@ -15,3 +15,5 @@ title: Начало работы
 * [x] Закрепите [Преподавателя](./../instrukcii-po-rabote/dlya-administratorov/kak-naznachit-prepodavatelya) и [Куратора](./../instrukcii-po-rabote/dlya-kuratorov/kak-naznachit-kuratora)
 
 * [x] Проводите занятия в Odin!
+
+
