@@ -7,8 +7,10 @@ order: 0.1
 
 К администраторам в системе Odin относятся:
 
-Администратор [Организации](https://informa.gitbook.io/odin/struktura/organizaciya)
+Администратор [Организации](./../../struktura/organizaciya/_index)
 
-Администратор [Подразделения](https://informa.gitbook.io/odin/struktura/podrazdelenie)
+Администратор [Подразделения](./../../struktura/podrazdelenie)
 
-Администратор [Программы](https://informa.gitbook.io/odin/struktura/programma)
+Администратор [Программы](./../../struktura/README/_index)
+
+
