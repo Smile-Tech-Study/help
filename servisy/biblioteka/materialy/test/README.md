@@ -59,6 +59,4 @@ title: Тест
 
 Чтобы вывести формулу, нажмите три точки в меню редактирования вопроса.
 
-![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces/fEAQaa7lpEa3qgwVTlEe/uploads/0w469EvlgGmSzMIUIiWj/Screenshot_602.png?alt=media&token=1086ab58-b0ae-47ee-b652-bd397526cea2)
-
 ![](../../../../.gitbook/assets/Screenshot_603.png)
