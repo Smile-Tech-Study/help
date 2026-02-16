@@ -1,8 +1,6 @@
 ---
 title: Код Будущего
-order: 0.1
+order: 5
 ---
 
 [view:hierarchy=none::::List]
-
-

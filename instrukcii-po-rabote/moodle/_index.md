@@ -1,6 +1,6 @@
 ---
 title: Moodle
-order: 0.1
+order: 6
 ---
 
 [view:hierarchy=none::::List]

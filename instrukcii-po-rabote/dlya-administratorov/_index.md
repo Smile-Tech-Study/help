@@ -1,6 +1,6 @@
 ---
 title: Для администраторов
-order: 0.1
+order: 10
 ---
 
 [view:hierarchy=none::::List]
@@ -12,5 +12,3 @@ order: 0.1
 Администратор [Подразделения](./../../struktura/podrazdelenie)
 
 Администратор [Программы](./../../struktura/README/_index)
-
-

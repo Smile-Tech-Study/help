@@ -1,6 +1,6 @@
 ---
 title: Как выдать задание студенту?
-order: 0.1
+order: 3
 ---
 
 1\. Для создания [Задания](./../struktura/disciplina/aktivnosti/kontrolnaya/zadanie/_index) перейдите на страницу [дисциплины](./../struktura/disciplina/_index) и нажмите Добавить - Активность.

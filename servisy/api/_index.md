@@ -1,7 +1,7 @@
 ---
 description: В Odin реализован открытый API
 title: API
-order: 3
+order: 5
 ---
 
 Документация по api доступна для просмотра любому пользователю по ссылке <https://www.odin.study/publicapi/docs/index.html>.
