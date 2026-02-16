@@ -56,3 +56,5 @@ title: Опросы
 Также прикрепляем видео, как создаются опросы.
 
 [video:https://rutube.ru/video/private/de4d9a3a4c937b0c40c9d267f496691b/?p=Y2KvuuwYmIWpXPJi4YVi7A]
+
+
