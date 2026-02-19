@@ -1,11 +1,11 @@
 ---
 title: Активности
-order: 3
+order: 1
 ---
 
 **Активность - аналог обычного занятия или урока**
 
-На странице каждой [дисциплины](./../../_index) необходимо заполнить список активностей в соответствии с образовательной программой.
+На странице каждой [дисциплины](./../_index) необходимо заполнить список активностей в соответствии с образовательной программой.
 
 ![](<./image (19) (1).png>)
 
@@ -17,27 +17,27 @@ order: 3
 
 1. Выберите **тип**  активности:
 
--  [Консультация ](./../utochnenie-po-vyboru-tipa-aktivnosti)
+-  [Консультация ](./utochnenie-po-vyboru-tipa-aktivnosti)
 
--  [Форум](./../utochnenie-po-vyboru-tipa-aktivnosti)
+-  [Форум](./utochnenie-po-vyboru-tipa-aktivnosti)
 
--  [Самостоятельная](./../utochnenie-po-vyboru-tipa-aktivnosti)
+-  [Самостоятельная](./utochnenie-po-vyboru-tipa-aktivnosti)
 
--  [Лабораторная ](./../utochnenie-po-vyboru-tipa-aktivnosti)
+-  [Лабораторная ](./utochnenie-po-vyboru-tipa-aktivnosti)
 
--  [Лекция ](./../utochnenie-po-vyboru-tipa-aktivnosti)
+-  [Лекция ](./utochnenie-po-vyboru-tipa-aktivnosti)
 
--  [Практика ](./../utochnenie-po-vyboru-tipa-aktivnosti)
+-  [Практика ](./utochnenie-po-vyboru-tipa-aktivnosti)
 
--  [Разработка](./../utochnenie-po-vyboru-tipa-aktivnosti)
+-  [Разработка](./utochnenie-po-vyboru-tipa-aktivnosti)
 
--  [Семинар ](./../utochnenie-po-vyboru-tipa-aktivnosti)
+-  [Семинар ](./utochnenie-po-vyboru-tipa-aktivnosti)
 
 -  [Задание](./zadanie/_index)
 
--  [Контрольная работа ](./_index)
+-  [Контрольная работа ](./kontrolnaya/_index)
 
--  [Другое](./../utochnenie-po-vyboru-tipa-aktivnosti)
+-  [Другое](./utochnenie-po-vyboru-tipa-aktivnosti)
 
 1. Заполните **название.**
 
@@ -49,7 +49,7 @@ order: 3
 
 5. Галочка "Обязательная активность" - не позволит студенту приступить к следующей активности без прохождения этой.
 
-6. Добавьте [**материалы**](./../../../../servisy/biblioteka/dobavlenie-materialov)**.**
+6. Добавьте [**материалы**](./../../../servisy/biblioteka/dobavlenie-materialov)**.**
 
 7. Установите **время проведения**,  чтобы активность попала в расписание к студентом и преподавателям.
 
@@ -63,11 +63,11 @@ order: 3
 
 -  гибридный, когда может быть задействована и онлайн, и офлайн активность
 
--  офлайн. Занятие может проводиться в организации, тогда следует указать место [проведения](./../../../organizaciya/korpus) и оборудование, при необходимости.
+-  офлайн. Занятие может проводиться в организации, тогда следует указать место [проведения](./../../organizaciya/korpus) и оборудование, при необходимости.
 
 -  онлайн. Занятие может быть проведено, как:
 
-   -  [Видеозвонок в Odin ](./../../../../kommunikaciya/videozvonki/_index)
+   -  [Видеозвонок в Odin ](./../../../kommunikaciya/videozvonki/_index)
 
    -  Асинхронная активность  - студент пройдет активность в удобное время и не будет привязан ко времени звонка.
 
@@ -77,7 +77,7 @@ order: 3
 
 Рекомендуем прикладывать записи всех онлайн-занятий в активность.
 
-Если звонок был в  Odin, то записи звонка доступны в [чате дисциплины.](./../../../../kommunikaciya/chat/_index)
+Если звонок был в  Odin, то записи звонка доступны в [чате дисциплины.](./../../../kommunikaciya/chat/_index)
 
 :::
 

@@ -3,7 +3,7 @@ title: Как выдать задание студенту?
 order: 3
 ---
 
-1\. Для создания [Задания](./../struktura/disciplina/aktivnosti/kontrolnaya/zadanie/_index) перейдите на страницу [дисциплины](./../struktura/disciplina/_index) и нажмите Добавить - Активность.
+1\. Для создания [Задания](./../struktura/disciplina/aktivnosti/zadanie/_index) перейдите на страницу [дисциплины](./../struktura/disciplina/_index) и нажмите Добавить - Активность.
 
 ![](https://lh5.googleusercontent.com/7fStY62lA95GrvGKAn-g6_4mRkiMrCUOTc-uhH8ADUDS_6gOd48CMByJ2HmFz-SRAifSTmkLS_uWFiHqhO52r1foS_2mo9xs8_DQnYVt9loW3N7Z74SpZBo2XSZCTQsFHWZZ5xKZJZsDemhTUA)
 
