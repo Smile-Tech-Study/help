@@ -1,8 +1,6 @@
 ---
-order: 0.5
+order: 2
 title: Odin
 ---
 
 [view:hierarchy=none::::List]
-
-

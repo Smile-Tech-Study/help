@@ -1,8 +1,6 @@
 ---
 title: Часто задаваемые вопросы
-order: 1
+order: 9
 ---
 
 [view:hierarchy=none::::List]
-
-

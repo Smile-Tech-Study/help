@@ -1,6 +1,6 @@
 ---
 title: Коммуникация
-order: 0.56
+order: 5
 ---
 
 [view:hierarchy=none::::List]

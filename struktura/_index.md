@@ -1,6 +1,6 @@
 ---
 title: Структура
-order: 0.530001
+order: 4
 ---
 
 [view:hierarchy=none::::List]
