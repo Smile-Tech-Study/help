@@ -11,15 +11,15 @@ title: 📱 Приложение
 
 [tab:На смартфоне Android]
 
-Опубликовано приложение Odin в [Google Play](https://play.google.com/store/apps/details?id=study.odin.www.twa).
+Приложение доступно Odin в [Google Play](https://play.google.com/store/apps/details?id=study.odin.www.twa).
 
 ![](./prilozhenie.png){width=300px height=675px}
 
 [/tab]
 
-[tab:На IPhone]
+[tab:PWA на IPhone]
 
-Odin **нет** в AppStore, но вы можете установить PWA - **приложение** для SPA на мобильной версии **через браузер**:
+При необходимости вы можете установить PWA - **приложение** для SPA на мобильной версии **через браузер**:
 
 -  Зайдите в браузер Safari
 
@@ -40,6 +40,14 @@ Odin **нет** в AppStore, но вы можете установить PWA - *
 ![](./prilozhenie-6.png){width=300px height=137px}
 
 
+
+[/tab]
+
+[tab:На смартфон IPhone]
+
+Приложение для яблочных устройств доступно [по ссылке](https://apps.apple.com/us/app/lms-odin/id6469049760). 
+
+![](./prilozhenie-7.png){width=567px height=1227px}
 
 [/tab]
 
