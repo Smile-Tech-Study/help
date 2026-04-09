@@ -2,7 +2,7 @@
 title: Импорт SCORM - пакетов
 ---
 
-В ODIN пакеты существуют в формате [материалов](./../../servisy/biblioteka/materialy/_index). Добавление SCORM материала осуществляется так же, как и с другими материалами-файлами. [Подробнее](./../../servisy/biblioteka/dobavlenie-materialov)
+В ODIN пакеты существуют в формате [материалов](./../../servisy/biblioteka/materialy/_index). Добавление SCORM материала осуществляется так же, как и с другими материалами-файлами. [Подробнее](./../../servisy/biblioteka/dobavlenie-materialov-2)
 
 Чтобы загрузить scorm-пакет в архиве с расширением zip в библиотеку, зайдите на страницу [дисциплины](./../../struktura/disciplina/_index) и выберете раздел "[Библиотека](./../../servisy/biblioteka/_index)".
 
@@ -17,5 +17,3 @@ title: Импорт SCORM - пакетов
 ![](./import-scorm-paketov-2.png){width=555px height=274px}
 
 ​ При необходимости отредактируйте или удалите материал. [Подробнее](./../../servisy/biblioteka/udalenie-materialov)
-
-
