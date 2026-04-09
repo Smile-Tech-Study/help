@@ -10,4 +10,4 @@ description: >-
 
 ![](<../../.gitbook/assets/Гифка с Gifius.ru-17 (1).gif>)
 
-24.08.2022
+24\.08.2022
