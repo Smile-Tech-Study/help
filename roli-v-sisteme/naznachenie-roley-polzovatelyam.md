@@ -45,6 +45,6 @@ title: Назначение ролей пользователям
 
 *  {% colwidth=[405] %}
 
-   👩‍👧‍👦[Как назначить куратора?](https://informa.gitbook.io/odin/instrukcii-po-rabote/dlya-kuratorov/kak-naznachit-kuratora)
+   👩‍👧‍👦[Как назначить куратора?](./../instrukcii-po-rabote/dlya-kuratorov/kak-naznachit-kuratora)
 
 {% /table %}
