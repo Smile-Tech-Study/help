@@ -25,7 +25,7 @@ title: Назначение ролей пользователям
 
 *  {% colwidth=[405] %}
 
-   👩‍⚖️[Как назначить администратора?](https://app.gram.ax/github.com/Smile-Tech-Study/helpOdin/main/-/instrukcii-po-rabote/dlya-administratorov/kak-naznachit-administratora-.)
+   👩‍⚖️[Как назначить администратора?](./../instrukcii-po-rabote/dlya-administratorov/kak-naznachit-administratora-.)
 
 ---
 
@@ -35,7 +35,7 @@ title: Назначение ролей пользователям
 
 *  {% colwidth=[405] %}
 
-   🧑‍🏫[Как назначить преподавателя?](https://app.gram.ax/github.com/Smile-Tech-Study/helpOdin/main/-/instrukcii-po-rabote/dlya-administratorov/kak-naznachit-prepodavatelya)
+   🧑‍🏫[Как назначить преподавателя?](./../instrukcii-po-rabote/dlya-administratorov/kak-naznachit-prepodavatelya)
 
 ---
 
