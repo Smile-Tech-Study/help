@@ -33,6 +33,8 @@ order: 2
 
 -  Убедиться, что установлено разрешение `Изменение мероприятий`.
 
+
+
 ![](./nastroika-sinkhronizacii-s-google-kalendarem.png){width=756px height=685px}
 
 Шаг 6. В появившемся диалоговом окне введите имя системной учетной записи Odin – service@lmsodincalendar.iam.gserviceaccount.com, укажите разрешение – «Внесение изменений в мероприятия» и нажмите «Отправить».
