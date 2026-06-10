@@ -12,9 +12,9 @@ title: Видеозвонки
 
 :::
 
-Позвонить можно в любом из [чатов](https://informa.gitbook.io/odin/kommunikaciya/chat) Odin или использовать видеозвонок как формат проведения [Активности](https://informa.gitbook.io/odin/struktura/aktivnosti).
+Позвонить можно в любом из [чатов](./../chat/_index) Odin или использовать видеозвонок как формат проведения [Активности](./../../struktura/disciplina/aktivnosti/_index).
 
-Звонок в **Чате** начинает **пользователь**, [звонок в **Активности**](https://informa.gitbook.io/odin/kommunikaciya/videozvonki/dobavlenie-videozvonka-v-aktivnost) может начаться **автоматически** за 10 минут до времени её начала, если установлено время проведения и выбран формат "Звонок в Odin".
+Звонок в **Чате** начинает **пользователь**, [звонок в **Активност**](./dobavlenie-videozvonka-v-aktivnost)[**и**](https://informa.gitbook.io/odin/kommunikaciya/videozvonki/dobavlenie-videozvonka-v-aktivnost) может начаться **автоматически** за 10 минут до времени её начала, если установлено время проведения и выбран формат "Звонок в Odin".
 
 ![](./videozvonki.png){width=1724px height=786px}
 
@@ -28,7 +28,7 @@ title: Видеозвонки
 
 Во время звонка администратор может включить запись, заглушить микрофоны, дополнительно позвать всех участников.
 
-Если звонок проводится в чате Дисциплины или в Активности и предварительно созданы [комнаты](https://informa.gitbook.io/odin/kommunikaciya/chat/komnata-discipliny), то во время звонка возможно переходить между ними.
+Если звонок проводится в чате Дисциплины или в Активности и предварительно созданы [комнаты](./../chat/komnata-discipliny), то во время звонка возможно переходить между ними.
 
 ![](./videozvonki-3.png){width=2078px height=1212px}
 
@@ -42,6 +42,6 @@ title: Видеозвонки
 
 :::note 
 
-Запись [звонка в Активности](https://informa.gitbook.io/odin/kommunikaciya/videozvonki/dobavlenie-videozvonka-v-aktivnost) также будет видна в чате дисциплины и автоматически станет материалом данной Активности.
+Запись [звонка в Активности](./dobavlenie-videozvonka-v-aktivnost) также будет видна в чате дисциплины и автоматически станет материалом данной Активности.
 
 :::
