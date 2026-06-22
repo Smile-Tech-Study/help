@@ -1,5 +1,5 @@
 ---
-order: 12
+order: 9.8
 title: ЭОР
 ---
 
