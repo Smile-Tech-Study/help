@@ -12,8 +12,6 @@ title: Быстрый вход в систему
 
 -  Яндекс
 
--  Google
-
 -  VK
 
 -  20\.35
@@ -45,4 +43,4 @@ title: Быстрый вход в систему
 
 :::
 
-![](./bystryi-vkhod-v-sistemu.png){width=996px height=1102px}
+![](./bystryi-vkhod-v-sistemu.png){width=824px height=960px}
